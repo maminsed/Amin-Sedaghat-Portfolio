@@ -29,7 +29,7 @@
             },
             {
                 "name": "Github",
-                "link": "https://github.com/Mohammdamin-Sedaghat"
+                "link": "https://github.com/maminsed"
             }
             ,{
                 "name": "Resume",
@@ -71,8 +71,8 @@
                 "Header": "UWPlanner",
                 "description": "An app made to transform the waterloo elective experience 🌟",
                 "tech-stack": ["FaPython", "FaDocker", "SDiPostgresql","SiFlask","RiNextjsFill"],
-                "github-link": "https://github.com/Mohammdamin-Sedaghat/UWPlanner",
-                "project-link": "https://github.com/Mohammdamin-Sedaghat/UWPlanner",
+                "github-link": "https://github.com/maminsed/UWPlanner",
+                "project-link": "https://github.com/maminsed/UWPlanner",
                 "col": "dark"
             },
             {
@@ -81,8 +81,8 @@
                 "Header": "Compiler/Interpretter",
                 "description": "The SIMPL/PRIMPL Imprative style Compiler + Racket Interpreter",
                 "tech-stack": ["SiRacket"],
-                "github-link": "https://github.com/Mohammdamin-Sedaghat/Cool-Stuff/tree/main/racket-problems/Language",
-                "project-link": "https://github.com/Mohammdamin-Sedaghat/Cool-Stuff/tree/main/racket-problems/Language",
+                "github-link": "https://github.com/maminsed/Cool-Stuff/tree/main/racket-problems/Language",
+                "project-link": "https://github.com/maminsed/Cool-Stuff/tree/main/racket-problems/Language",
                 "col": "light"
             },{
                 "image-path": "/projects/Stock.png",
@@ -90,8 +90,8 @@
                 "Header": "StockML",
                 "description": "A stock market predictive model",
                 "tech-stack": ["SiPytorch", "FaPython"],
-                "github-link": "https://github.com/Mohammdamin-Sedaghat",
-                "project-link": "https://github.com/Mohammdamin-Sedaghat",
+                "github-link": "https://github.com/maminsed",
+                "project-link": "https://github.com/maminsed",
                 "col": "dark"
             },{
                 "image-path": "/projects/SnakeFuturista.png",
@@ -99,8 +99,8 @@
                 "Header": "Snake Futuristica",
                 "description": "Snake Futuristica is the futuristic take on the classic snake game! 🔮",
                 "tech-stack": ["FaCss3Alt","FaHtml5","IoLogoJavascript"],
-                "github-link": "https://github.com/Mohammdamin-Sedaghat/Snake-Futuristica",
-                "project-link": "https://github.com/Mohammdamin-Sedaghat/Snake-Futuristica",
+                "github-link": "https://github.com/maminsed/Snake-Futuristica",
+                "project-link": "https://github.com/maminsed/Snake-Futuristica",
                 "col": "light"
             },
             {
@@ -109,8 +109,8 @@
                 "Header": "Accentify.Study",
                 "description": "Accentify is designed to help users achieve american accents easier",
                 "tech-stack": ["FaPython","FaHtml5","FaCss3Alt","IoLogoJavascript"],
-                "github-link": "https://github.com/Mohammdamin-Sedaghat/Accentify",
-                "project-link": "https://github.com/Mohammdamin-Sedaghat/Accentify",
+                "github-link": "https://github.com/maminsed/Accentify",
+                "project-link": "https://github.com/maminsed/Accentify",
                 "col": "dark"
             },
             {
@@ -119,8 +119,8 @@
                 "Header": "HarvestAid",
                 "description": "HarvestAid is developed at NewHacks 2024 to support farmers affected by natural disasters.",
                 "tech-stack": ["FaPython","SiTypescript","RiNextjsFill", "FaNodeJs"],
-                "github-link": "https://github.com/Mohammdamin-Sedaghat/harvestaid",
-                "project-link": "https://github.com/Mohammdamin-Sedaghat/harvestaid",
+                "github-link": "https://github.com/maminsed/harvestaid",
+                "project-link": "https://github.com/maminsed/harvestaid",
                 "col": "dark"
             }
         ]
