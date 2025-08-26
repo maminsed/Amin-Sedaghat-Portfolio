@@ -37,7 +37,7 @@ export default function Hero() {
             />
 
             <div className="text">
-                <Header type="h1">Hello, I&apos;m Amin Sedaghat!</Header>
+                <Header type="h1" className="leading-15 md:leading-18">Hello, I&apos;m Amin Sedaghat!</Header>
                 <h2>I&apos;m a <RotatingText /></h2>
                 <div className="btns">
                     <Link href="#projects">Projects</Link>

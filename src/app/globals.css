@@ -128,7 +128,6 @@ header {
 
 header > .text {
   position: absolute;
-  color: white;
   top: 24%;
   left: 6%;
   max-width: 78%;
